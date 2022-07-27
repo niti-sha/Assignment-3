@@ -1,4 +1,5 @@
 # Assignment-3
+
 Assignment – write the output
 1.
 def a_fun():
@@ -10,6 +11,7 @@ def b_fun():
 b_fun()
 a_fun()
 print (name)
+
 2.
 a = 10
 def f():
